@@ -1,1 +1,1 @@
-# Learning GO by making a basic Animal Crossing clone with RayLib
+# Learning GO by making a basic game with RayLib
